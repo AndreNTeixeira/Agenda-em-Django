@@ -79,7 +79,7 @@ Métodos auxiliares: `get_data_evento()` (formata para `dd/mm/aaaa HH:MM`), `get
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/AndreNTeixeira/agenda.git
+git clone https://github.com/AndreNTeixeira/Agenda-em-Django.git
 ```
 
 ### 2. Criar e ativar o ambiente virtual
